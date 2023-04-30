@@ -1,0 +1,8 @@
+-Run severMain.exe(>>>src)
+-Run ClientMain.java(>>src>>pX)
+-Click Connect button
+-Click Upload Facial Image button
+-After uploading the image
+	-Apply grey scale
+	-Apply fast
+	-Detect face
